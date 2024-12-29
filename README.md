@@ -1,1 +1,1 @@
-# Regression---Yes-Bank-Stock-Closing-Price-Prediction-Project
+# Regression - Yes Bank Stock Closing Price Prediction Project
